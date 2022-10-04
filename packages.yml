@@ -1,4 +1,4 @@
-packages:
+packages:    
   - package: fivetran/apple_search_ads
     version: [">=0.1.0", "<0.2.0"]
 
